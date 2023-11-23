@@ -21,7 +21,7 @@ function App() {
       <Route exact path="/edit/:id" component={Edit} />
       <Route exact path="/view/:id" component={Details} />
     </Switch>
-   
+  
    </>
   );
 }
